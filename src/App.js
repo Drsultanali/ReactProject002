@@ -13,6 +13,10 @@ function App() {
     <Cma courseName="Accounting" degreeHolder="PIPFA" />
     <Cma courseName="Director Training" degreeHolder="MBA" />
       </u>
+      <br />
+      <br />
+      <br />
+      Pakistan Zindabad
       </div>
   )
 }
